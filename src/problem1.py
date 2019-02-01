@@ -12,7 +12,7 @@ import testing_helper
 
 
 def main():
-    """ Calls the   TEST   functions in this module. ""
+    """ Calls the   TEST   functions in this module. """
     run_test_problem1()
 
 
